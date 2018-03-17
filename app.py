@@ -8,6 +8,7 @@ deroos = {'active':[
                  {'scholar_name': 'alhabib',
                   'sex': 'm',
                   'topic': 'tazkeya',
+                  'title': 'ketab al makased',
                   'location': 'https://goo.gl/maps/zj7RqYZAcqk',
                   'schedule':
                                 {'weekly_or_monthly': 'w',
@@ -17,9 +18,24 @@ deroos = {'active':[
                                  'end_time' : '10:00'
                                 }
                   },
+                {
+                  'scholar_name': 'Mohammad Mehanna',
+                  'sex': 'm',
+                  'topic': 'tazkeya',
+                  'title': 'shar7 ketab al makased',
+                  'location': 'https://goo.gl/maps/zj7RqYZAcqk',
+                  'schedule':
+                                {'weekly_or_monthly': 'm',
+                                'week_day': 'Tue',
+                                'am_pm': 'AM',
+                                'start_time': '9:00',
+                                'end_time' : '10:00'
+                                }
+                  }
                  {'scholar_name': 'mo3ez mas3ood',
                   'sex': 'm',
                   'topic': 'tazkeya',
+                  'title': 'ketab 2bn 3ata2 allah',
                   'location': 'https://goo.gl/maps/zj7RqYZAcqk',
                   'schedule':
                                 {'weekly_or_monthly': 'm',
