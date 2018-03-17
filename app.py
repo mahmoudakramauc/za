@@ -21,7 +21,20 @@ deroos = {'active':[
                 { 'scholar_name': 'muhammad mehanna',
                   'sex': 'm',
                   'topic': 'tazkeya',
-                  'title': 'shar7 ketab al makased',
+                  'title': 'shar7 ketab 27ya2 3loom al deen',
+                  'location': 'https://goo.gl/maps/zj7RqYZAcqk',
+                  'schedule':
+                                {'weekly_or_monthly': 'm',
+                                'week_day': 'Tue',
+                                'am_pm': 'AM',
+                                'start_time': '9:00',
+                                'end_time' : '10:00'
+                                }
+                  },
+                { 'scholar_name': 'ali gomaa',
+                  'sex': 'm',
+                  'topic': 'iftaa',
+                  'title': 'magles el gomaa',
                   'location': 'https://goo.gl/maps/zj7RqYZAcqk',
                   'schedule':
                                 {'weekly_or_monthly': 'm',
@@ -33,7 +46,7 @@ deroos = {'active':[
                   },
                  {'scholar_name': 'mo3ez mas3ood',
                   'sex': 'm',
-                  'topic': 'tazkeya',
+                  'topic': 'falsafah',
                   'title': 'ketab 2bn 3ata2 allah',
                   'location': 'https://goo.gl/maps/zj7RqYZAcqk',
                   'schedule':
