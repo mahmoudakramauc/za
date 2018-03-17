@@ -31,7 +31,7 @@ deroos = {'active':[
                                 'start_time': '9:00',
                                 'end_time' : '10:00'
                                 }
-                  }
+                  },
                  {'scholar_name': 'mo3ez mas3ood',
                   'sex': 'm',
                   'topic': 'tazkeya',
