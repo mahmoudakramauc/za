@@ -19,7 +19,7 @@ deroos = {'active':[
                                 }
                   },
                 {
-                  'scholar_name': 'Mohammad Mehanna',
+                  'scholar_name': 'muhammad mehanna',
                   'sex': 'm',
                   'topic': 'tazkeya',
                   'title': 'shar7 ketab al makased',
