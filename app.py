@@ -46,7 +46,7 @@ deroos = {'active':[
                   }],
 
           'inactive':[
-                  {'scholar_name': 'amr werdany',
+                  {'scholar_name': 'amr elwerdany',
                   'sex': 'm',
                   'topic': 'fiqh',
                   'location': 'https://goo.gl/maps/zj7RqYZAcqk',
