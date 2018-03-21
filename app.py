@@ -9,7 +9,7 @@ deroos = {'active':[
                   'sex': 'm',
                   'topic': 'tazkeya',
                   'title': 'ketab al makased',
-                  'location': 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11291.378755824157!2d-93.24648946523668!3d44.96714922299576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b32d391fa06113%3A0x103812ade8778dc7!2sUniversity+of+Minnesota+Medical+Center!5e0!3m2!1sen!2sus!4v1521597370794',
+                  'location': 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29355.758025942734!2d31.246216399673987!3d30.04779539037385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDAyJzUyLjEiTiAzMcKwMTUnNDkuNCJF!5e1!3m2!1sen!2sus!4v1521598252622',
                   'schedule':
                                 {'weekly_or_monthly': 'w',
                                  'week_day': 'Mon',
