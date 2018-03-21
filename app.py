@@ -5,7 +5,7 @@ app = Flask(__name__)
 api = Api(app)
 
 deroos = {'active':[
-                 {'scholar_name': 'alhabib',
+                 {'scholar_name': 'Alhabib',
                   'sex': 'm',
                   'topic': 'tazkeya',
                   'title': 'ketab al makased',
@@ -19,7 +19,7 @@ deroos = {'active':[
                                 }
                   },
                   
-                { 'scholar_name': 'muhammad mehanna',
+                { 'scholar_name': 'Muhammad Mehanna',
                   'sex': 'm',
                   'topic': 'tazkeya',
                   'title': 'shar7 ketab 27ya2 3loom al deen',
@@ -32,7 +32,7 @@ deroos = {'active':[
                                 'end_time' : '10:00'
                                 }
                   },
-                { 'scholar_name': 'ali gomaa',
+                { 'scholar_name': 'Ali Gomaa',
                   'sex': 'm',
                   'topic': 'iftaa',
                   'title': 'magles el gomaa',
@@ -60,7 +60,7 @@ deroos = {'active':[
                   }],
 
           'inactive':[
-                  {'scholar_name': 'amr elwerdany',
+                  {'scholar_name': 'Amr Elwerdany',
                   'sex': 'm',
                   'topic': 'fiqh',
                   'location': 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.106349357143!2d30.979733965257697!3d29.976550381906968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1458572a278e4c25%3A0x12ccf9e8eab22aec!2sFadel+Mosque%2C+Giza+Governorate%2C+Egypt!5e1!3m2!1sen!2sus!4v1521598451261',
