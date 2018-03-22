@@ -5,7 +5,7 @@ app = Flask(__name__)
 api = Api(app)
 
 deroos = {'active':[
-                 {'scholar_name': 'alhabib',
+                 {'scholar_name': 'Alhabib ALi Aljifri',
                   'sex': 'm',
                   'topic': 'Tazkeyah',
                   'title': 'Kabas Al Noor Al Mobeen Men Ihyaa Uloom Al Deen',
