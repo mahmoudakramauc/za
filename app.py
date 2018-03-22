@@ -8,7 +8,7 @@ deroos = {'active':[
                  {'scholar_name': 'alhabib',
                   'sex': 'm',
                   'topic': 'tazkeya',
-                  'title': 'ketab al makased',
+                  'title': 'Kabas Al Noor Al Mobeen Men Ihyaa Uloom Al Deen',
                   'location': 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29355.758025942734!2d31.246216399673987!3d30.04779539037385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDAyJzUyLjEiTiAzMcKwMTUnNDkuNCJF!5e1!3m2!1sen!2sus!4v1521598252622',
                   'schedule':
                                 {'weekly_or_monthly': 'w',
