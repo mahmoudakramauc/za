@@ -21,7 +21,7 @@ deroos = {'active':[
                   
                 { 'scholar_name': 'muhammad mehanna',
                   'sex': 'm',
-                  'topic': 'Tazkeya',
+                  'topic': 'Tazkeyah',
                   'title': 'shar7 ketab Ihyaa Uloom Al Deen',
                   'location': 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3669.5478245093313!2d31.260496415259176!3d30.04568798188196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840a2f3fd21f5%3A0x676752c74b1e52e8!2sAl-Azhar+Mosque!5e1!3m2!1sen!2sus!4v1521598500037',
                   'schedule':
