@@ -47,8 +47,8 @@ deroos = {'active':[
                   },
                  {'scholar_name': 'amr elwerdany',
                   'sex': 'm',
-                  'topic': 'Fiqh',
-                  'title': 'ketab 2bn 3ata2 allah',
+                  'topic': 'Tazkeyah',
+                  'title': 'Ketab 2bn 3ata2 Allah',
                   'location': 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.106349357143!2d30.979733965257697!3d29.976550381906968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1458572a278e4c25%3A0x12ccf9e8eab22aec!2sFadel+Mosque%2C+Giza+Governorate%2C+Egypt!5e1!3m2!1sen!2sus!4v1521598451261',
                   'schedule':
                                 {'weekly_or_monthly': 'm',
